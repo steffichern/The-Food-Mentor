@@ -1,0 +1,325 @@
+Lactose Intolerant:
+Acidophilus Milk
+Ammonium Caseinate
+Butter
+Butter Esters
+Butter Fat
+Butter Oil
+Butter Solids
+Buttermilk
+Buttermilk Powder
+Calcium Caseinate
+Casein
+Caseinate
+Cheese
+Condensed Milk
+Cottage Cheese
+Cream
+Curds
+Custard
+Delactosed Whey
+Demineralized Whey
+Dry Milk Powder
+Dry Milk Solids
+Evaporated Milk
+Ghee
+Goat Cheese
+Goat Milk
+Half & Half
+Hydrolyzed Casein
+Hydrolyzed Milk Protein
+Iron Caseinate
+Lactalbumin
+Lactoferrin
+Lactoglobulin
+Lactose
+Lactulose
+Low-Fat Milk
+Low fat milk
+Magnesium Caseinate
+Malted Milk
+Milk
+Milk Derivative
+Milk Fat
+Milk Powder
+Milk Protein
+Milk Solids
+Natural Butter Flavor
+Nonfat Milk
+Nougat
+Paneer
+Potassium Caseinate
+Pudding
+Recaldent
+Rennet Casein
+Reduced fat milk
+Sheep Milk
+Sheep Milk Cheese
+Skim Milk
+Sodium Caseinate
+Sour Cream
+Sour Milk Solids
+Sweetened Condensed Milk
+Sweet Whey
+Whey
+Whey Powder
+Whey Protein Concentrate
+Whey Protein Hydrolysate
+Whipped Cream
+Whipped Topping
+Whole Milk
+Yogurt
+Zinc Caseinate
+----------
+Peanut Allergy:
+Arachis oil
+Arachis
+Arachis hypogaea
+Peanut Oil
+Artificial nuts
+Beer nuts
+Boiled peanuts
+Cold-pressed
+Expelled peanut oil
+Extruded peanut oil
+Crushed peanuts
+Dry roasted peanuts
+Earth nuts
+Goober peas
+Goobers
+Ground nuts
+Hydrolyzed peanut protein
+Hypogaeic acid
+Lupin
+Lupine
+Mandelonas
+Mixed nuts
+Monkey nuts
+Nut meat
+Nut pieces
+Peanut
+Peanuts
+Peanut butter
+Peanut butter chips
+Peanut butter peanuts
+Peanut flour
+Peanut protein hydrolysate
+Peanuts sauce
+Peanut syrup
+Roasted peanuts
+Spanish peanuts
+Virginia peanuts
+----------
+Tree Nut Allergy:
+Almond
+Almonds
+Almond paste
+Artificial nuts
+Beechnut
+Brazil nut
+Butternut
+Cashew
+Chestnut
+Chinquapin
+Coconut
+Filbert
+Hazelnut
+Hazelnuts
+Gianduja
+Ginkgo Nut
+Hickory Nut
+Litchi
+Lichee
+Lychee nut
+Macadamia Nut
+Marzipan
+Nangai nut
+Natural nut extract
+Nut butters
+Nut meal
+Nut meat
+Nut paste
+Nut pieces
+Pecan
+Pesto
+Pili Nut
+Pine Nut
+Pistachio
+Praline
+Shea Nut
+Tree nut
+Tree nuts
+Walnut
+----------
+Seafood Allergy:
+Abalone
+Barnacle
+Calamari
+Crab
+Crawfish
+Crawdad
+Crayfish
+Crevette
+Ecrevisse
+Escargot
+Krill
+Lobster
+Langouste
+Langoustine
+Moreton bay bugs
+Scampi
+Tomalley
+Prawns
+Shrimp
+Clams
+Cherrystone
+Geoduck
+Littleneck
+Pismo
+Quahog
+Cockle
+Cuttlefish
+Limpet
+Lapas
+Opihi
+Mussels
+Octopus
+Oysters
+Periwinkle
+Sea cucumber
+Sea urchin
+Scallops
+Snails
+Squid
+Turban shell
+Whelk
+----------
+Egg Allergy:
+Albumin
+Albumen
+Apovitellin
+Egg
+Eggs
+Dried egg
+Dried egg solids
+Dried egg whites
+Powdered eggs
+Egg solids
+Egg wash
+Egg white
+Egg whites
+Egg yolk
+Eggnog
+Globulin
+Livetin
+Lysozyme
+Lysozyme
+Mayonnaise
+Meringue
+Meringue powder
+Ovalbumin
+Ovoglobulin
+Ovomucin
+Ovomucoid
+Ovotransferrin
+Ovovitelia
+Ovovitellin
+Silici albuminate
+Surimi
+Vitellin
+----------
+Soy Allergy:
+Cold-pressed soy oil
+Expelled soy oil
+Extruded soy oil
+Edamame
+Miso
+Natto
+Shoyu
+Soy
+Soy albumin
+Soy cheese
+Soy curd
+Soy fiber
+Soy flour
+Soy Granules
+Soy grits
+Soy ice cream
+Soy milk
+Soy nuts
+Soy sprouts
+Soy yogurt
+Soya
+Soybean
+Soy protein
+Concentrate soy protein
+Hydrolyzed soy protein
+Isolate soy protein
+Soy sauce
+Tamari
+Tempeh
+Textured vegetable protein
+TVP
+Tofu
+----------
+Wheat & Gluten Allergy:
+Barley
+Bran
+Bread
+Bread crumbs
+Bulgur
+Cereal extract
+Couscous
+Cracker meal
+Cracked wheat
+Durum
+Einkorn
+Emmer
+Farina
+Flour
+Enriched flour
+Faro
+Graham flour
+High gluten flour
+High protein flour
+Instant Pastry
+Kamut
+Wheat
+Wheat gluten
+Whole wheat
+Whole wheat flour
+Matzoh
+Matzoh meal
+Oats
+Pasta
+Seitan
+Self rising flour
+Soft wheat
+Semolina
+Spelt
+Tabbouleh
+Triticale
+Triticum
+Vital gluten
+Wheat berries
+Wheat flour
+Wheat bran
+Wheat gluten
+Whole wheat bread
+Whole wheat flour
+Wheat germ
+Wheat protein isolate
+Bran
+Germ
+Gluten
+Grass
+Malt
+Malt extract
+Rye
+Sprouted
+Starch
+Khorasan
+Udon
+Einkorn
+
+
